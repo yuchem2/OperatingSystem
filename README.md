@@ -2,7 +2,6 @@
 
 본 파일은 Korea Univ. CSS department에서 수업한 운영체제 수업 간 이론을 구현한 프로젝트이다. 
 
-+ [2022.09.08] Multiplication Table
 + [2022.09.21] Process Counter
 + [2022.10.04] Display CPU Load 
 + [2022.10.16-2022.10.17] Display Process Tree
