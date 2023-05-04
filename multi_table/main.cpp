@@ -4,12 +4,12 @@ using namespace std;
 
 
 int main(int argc, char **argv) {
-	const int lbreak_criteria_num = 5; // the number of the sub-tables
+	const int lbreak_criteria_num = 5; 		// the number of the sub-tables
 	
-	int max_num = atoi(argv[1]);		// get the max number of sub-tables
+	int max_num = atoi(argv[1]);			// get the max number of sub-tables
 	
 	int st_num, end_num;				// it helps to control the 3rd loop
-	int i, j, k;						// for the loop
+	int i, j, k;					// for the loop
 	int loop_time = max_num / lbreak_criteria_num;
 	if (max_num % lbreak_criteria_num != 0)
 		loop_time++;				// it needs when the max_num is not multiple of lbreak_criteria_num(=5)
