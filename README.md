@@ -1,6 +1,7 @@
 # OperatingSystem
 
-본 파일은 Korea Univ. CSS department에서 수업한 운영체제 수업 간 이론을 구현한 프로젝트이다. 
+본 파일은 Korea Univ. CSS department의 OS 수업 내에서 이루어진 프로젝트이다.  
+목적은 운영체제의 이해에 있으며 Code에서 OS를 활용할 수 있는 방안을 다루는 실습이다. 
 
 + [2022.09.21] Process Counter
 + [2022.10.04] Display CPU Load 
