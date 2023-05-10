@@ -6,6 +6,6 @@
 + [2022.09.21] Process Counter
 + [2022.10.04] Display CPU Load 
 + [2022.10.16-2022.10.17] Display Process Tree
-+ [2022.11.01-2022.11.02] Matrix Multiplication using multiple process
++ [2022.11.01-2022.11.02] Matrix Multiplication using multiple thread
 + [2022.11.24] Process Scheduling - Shortest Job First Scheduling
 + [2022.12.08] Safety Alogrithm in the Banker's Algorithm
