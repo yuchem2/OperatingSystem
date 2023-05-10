@@ -8,7 +8,7 @@
 
 ## Execute
 
-인자 없이 Windows Command Processor에서 다음 명령어를 입력하면 된다. SavedDircetory는 현재 CPU_load 프로젝트가 저장된 폴더 명이다. 
+인자 없이 Windows Command Processor에서 다음 명령어를 입력하면 된다. SavedDircetory는 현재 ProcessTree 프로젝트가 저장된 폴더 명이다. 
 ```
 SavedDirectory\ProcessTree\x64\Debug\ProcessTree.exe
 ```
